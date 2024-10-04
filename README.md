@@ -1,0 +1,1 @@
+Hospital Management System is a simple and interactive project implemented in JAVA and MYSQL. It allows the patient to book the doctor and appointment date. Also, it allows the doctor to view patiend and appointment date.
